@@ -1,0 +1,9 @@
+{
+  "name": "unspoiled-elements",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "unspoiled-media-event-card": "lotrf3/unspoiled-media-event-card#master",
+	"unspoiled-rating": "lotrf3/unspoiled-rating#master"
+  }
+}
